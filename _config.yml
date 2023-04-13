@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Hello World!'
+title: MyLog
+description: 'Lv1. Hello World!'
 url: 'https://alsiiiii.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
